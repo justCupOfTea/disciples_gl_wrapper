@@ -8,7 +8,7 @@
 * Акелла;
 * Steam (имеются неполадки с работой в Gallean's Return)
 
-1. Скачать [DisciplesGL_1.90.2030.7z](DisciplesGL_1.90.2030.7z)
+1. Скачать [DisciplesGL_1.90.2030.7z](https://github.com/justCupOfTea/disciples_gl_wrapper/releases/tag/DisciplesGL_1.90.2030)
   * MD5 `84d4a568694eb87b136ebd957d2964b8`
   * SHA-1 `fa15c58ffe0dc5af0a90f3293c3d5dbd98090621`
   * SHA-256 `03e76abd6dcaaf1679df95ae1a45a60781ce765b7b12e68d12798e7d58208530`
